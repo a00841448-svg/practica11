@@ -81,4 +81,5 @@ dependencies {
     implementation(libs.androidx.exifinterface)
 
     debugImplementation(libs.androidx.ui.tooling)
+    testImplementation(libs.junit)
 }
